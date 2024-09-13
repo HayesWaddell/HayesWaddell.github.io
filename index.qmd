@@ -1,11 +1,27 @@
 ---
-title: "HayesWaddell.github.io"
+title: "Hayes Waddell"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpg
+  links:
+    - icon: twitter
+      href: https://twitter.com/yourusername
+    - icon: github
+      href: https://github.com/HayesWaddell
 ---
 
-This is a Quarto website.
+### This content appears above the formatted about page content.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#intro-heading}
 
-```{r}
-1 + 1
-```
+I am a senior neuroscience major at Macalester College, with minors in data science, biology, and psychology. I have conducted research on the effects of nicotine on a Pavlovian conditioning paradigm with an ethanol reward cue, combining my interest in neuroscience and behavior. Athletically, I play baseball for Macalester and was named to the All-MIAC team in 2023 and the All-Region Third Team in 2023. I also serve on the Macalester baseball leadership team for 2024. Outside of academics and sports, I enjoy cooking and spending time outdoors.
+
+## Education
+
+Macalester College | St. Paul MN <br>
+B.A. in Neuroscience | Sept 2021 - May 2025
+
+:::
+
+### This content appears below the formatted about page content.
