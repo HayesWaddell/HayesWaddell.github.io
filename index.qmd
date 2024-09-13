@@ -11,18 +11,10 @@ about:
       href: https://github.com/HayesWaddell
 ---
 
-
-
-:::{#intro-heading}
-
+::: {#intro-heading}
 I am a senior neuroscience major at Macalester College, with minors in data science, biology, and psychology. I have conducted research on the effects of nicotine on a Pavlovian conditioning paradigm with an ethanol reward cue, combining my interest in neuroscience and behavior. Athletically, I play baseball for Macalester and was named to the All-MIAC team in 2023 and the All-Region Third Team in 2023. I also serve on the Macalester baseball leadership team for 2024. Outside of academics and sports, I enjoy cooking and spending time outdoors.
 
 ## Education
 
-Macalester College | St. Paul MN <br>
-B.A. in Neuroscience | Sept 2021 - May 2025
-
+Macalester College \| St. Paul MN <br> B.A. in Neuroscience \| Sept 2021 - May 2025
 :::
-
-
-
