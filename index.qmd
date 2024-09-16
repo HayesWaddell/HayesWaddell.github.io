@@ -5,8 +5,6 @@ about:
   template: trestles
   image: images/profilepic.jpg
   links:
-    - icon: twitter
-      href: https://twitter.com/yourusername
     - icon: github
       href: https://github.com/HayesWaddell
 ---

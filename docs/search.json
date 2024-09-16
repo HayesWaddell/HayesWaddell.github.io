@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I’ll put projects here eventually."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hayes Waddell",
@@ -12,19 +26,5 @@
     "title": "Hayes Waddell",
     "section": "",
     "text": "Macalester College | St. Paul MN  B.A. in Neuroscience | Sept 2021 - May 2025"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "listing: contents: projects sort: “title desc” type: grid categories: true sort-ui: true filter-ui: true"
   }
 ]

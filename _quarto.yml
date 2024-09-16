@@ -1,13 +1,14 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "HayesWaddell.github.io"
+  title: "Hayes Waddell"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
 
 format:
   html:
